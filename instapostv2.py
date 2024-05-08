@@ -1,8 +1,8 @@
 from instagrapi import Client
 
 # Foydalanuvchining ma'lumotlari
-username = 'coding.frontend'
-password = 'coding00'
+username = ''
+password = ''
 
 # Hikoya ma'lumotlari
 story_image_path = 'qr-data.png'
